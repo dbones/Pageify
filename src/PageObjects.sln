@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects", "PageObjects\PageObjects.csproj", "{36857BD9-E5C9-4E38-9479-E5C16348716C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects.SpecFlow", "PageObjects.SpecFlow\PageObjects.SpecFlow.csproj", "{CFD90CF7-F7CB-4C00-A269-CD77C9B61F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36857BD9-E5C9-4E38-9479-E5C16348716C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36857BD9-E5C9-4E38-9479-E5C16348716C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36857BD9-E5C9-4E38-9479-E5C16348716C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36857BD9-E5C9-4E38-9479-E5C16348716C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD90CF7-F7CB-4C00-A269-CD77C9B61F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD90CF7-F7CB-4C00-A269-CD77C9B61F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD90CF7-F7CB-4C00-A269-CD77C9B61F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD90CF7-F7CB-4C00-A269-CD77C9B61F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
